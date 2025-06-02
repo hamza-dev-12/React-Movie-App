@@ -45,7 +45,7 @@ const App = () => {
       <section className='all-movies'>
         <h2 className='text-white'>All Movies</h2>
 
-        {error && <p className='text-red-500'>{error}</p>}
+        {error && <p className='text-red-600'>{error}</p>}
       </section>
       </div>
     </main>
